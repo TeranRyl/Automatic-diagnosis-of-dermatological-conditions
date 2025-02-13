@@ -1,0 +1,1 @@
+# Diagnostico-automatico-de-afecciones-dermatologicas-con-Transfer-Learning
