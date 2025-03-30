@@ -1,11 +1,9 @@
-# Diagnostico automatico de afecciones dermatologicas con Transfer Learning
+# Automatic diagnosis of dermatological conditions with Transfer Learning
 
-## Space de Hugging Face
+Classification of dermatological conditions based on images using Transfer Learning, specifically utilizing the pre-trained Xception model.
+
+Development of a model with an accuracy of 80% on the test set, which allows for determining whether a skin lesion is actinic keratosis and intraepithelial carcinoma, basal cell carcinoma, benign keratosis-like lesion, dermatofibroma, melanoma, melanocytic nevus, or vascular lesion.
+
+## HuggingFace Space
 
 https://juanter-diagnoser-of-dermatological-conditions.hf.space
-
-## Resumen
-
-Clasificación de afecciones dermatológicas basada en imágenes con Transfer Learning, especificamente utilizando el modelo pre-entrenado Xception.
-
-Construcción de un modelo, con Accuracy del 80% en el conjunto de prueba, que permite determinar si una lesion cutanea es queratosis actínica y carcinoma intraepitelial, carcinoma basocelular, lesion benigna similar a queratosis, dermatofibroma, melanoma, nevo melanocítico o lesion vascular.
